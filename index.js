@@ -1,5 +1,5 @@
-function Scooter(year, age, model) {
+function Scooter(year, color, model) {
   this.year = year;
-  this.age = age;
+  this.color = color;
   this.model = model;
 }
